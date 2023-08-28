@@ -9,4 +9,6 @@ I answered 5 high level business questions.
 
 To answer these questions the raw data was transformed using 'update', 'round', 'datepart', 'set' and 'Delete' statements. Aggregation functions along 'group by' and 'order by' were used to extract the necessary information to answer questions above. For the last question I did a 'self join' in such way that each pair was count ony one time.
 
+All_months.csv contains the raw data
+
 This project was also carried out with excel which allows the data visualization on a dashboard. You can check it [here](https://github.com/Fran-Sierra/sales_retail_stores)
